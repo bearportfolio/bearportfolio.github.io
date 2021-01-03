@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+.img_center{
+	text-align:center;
+	}
+
+.middle_1{
+	height:150px;
+	width:150px;
+	text-align:center;
+	float:left;
+	/**border: 2px double #0000FF;*/
+	padding:10px; /*圖片與邊框間的距離*/
+	box-shadow:3px 3px 12px gray;
+	line-height:40pt;
+	margin:40px;
+	}
+
+.middle_2{
+	height:150px;
+	width:150px;
+	text-align:center;
+	float:left;
+	/**border: 2px double #0000FF;*/
+	padding:10px; /*圖片與邊框間的距離*/
+	box-shadow:3px 3px 12px gray;
+	line-height:40pt;
+	margin:40px;
+	}
+
